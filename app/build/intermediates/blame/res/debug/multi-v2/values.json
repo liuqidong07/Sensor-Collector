@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Data-APP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\Data-APP\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "G:\\Data-APP\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,14,4,12,7,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "161,56,563,108,485,219,525",
+                        "endLines": "5,3,14,4,12,11,13",
+                        "endColumns": "52,51,53,52,39,74,37",
+                        "endOffsets": "209,103,612,156,520,480,558"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,14",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,274,328,381,421,687",
+                        "endLines": "4,5,6,7,8,13,14",
+                        "endColumns": "52,51,53,52,39,74,37",
+                        "endOffsets": "217,269,323,376,416,682,720"
+                    }
+                },
+                {
+                    "source": "G:\\Data-APP\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,677"
+                    },
+                    "to": {
+                        "startLines": "15,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "725,1028",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "1023,1183"
+                    }
+                }
+            ]
+        }
+    ]
+}

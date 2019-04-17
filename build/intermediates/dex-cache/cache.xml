@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6ad5218ec0f0b6a89c0a042416a9718ce26583c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="653611f6700c545ae70b9ce67e03313d06157149">
+        <dex dex="F:\12306\longtime_collect-master\app\build\intermediates\pre-dexed\debug\classes_95e54be6085c6cdb17f8d1f55a7a8acfea0d1e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\12306\longtime_collect-master\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="F:\12306\longtime_collect-master\app\build\intermediates\pre-dexed\debug\microsoft-band-1.3.20307.2_f11c5cdf1a1ef3a4bcc4be19d39a9ddaf34d524b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.0.0\45599f2cd5965ac05a1488fa2a5c0cdd7c499ead\annotation-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45599f2cd5965ac05a1488fa2a5c0cdd7c499ead">
+        <dex dex="F:\12306\longtime_collect-master\app\build\intermediates\pre-dexed\debug\annotation-1.0.0_75663afd7eeb3b12465bcf088184f3dd13902f9f.jar" />
+    </item>
+
+</items>

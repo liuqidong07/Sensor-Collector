@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\ΑυΖτ¶«\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\e1cd62fd5c23fc56411067affa1ac233\AndroidManifest.xml:2:1-20:12
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\ΑυΖτ¶«\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\e1cd62fd5c23fc56411067affa1ac233\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\ΑυΖτ¶«\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\e1cd62fd5c23fc56411067affa1ac233\AndroidManifest.xml:16:5-18:41
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:7:5-9:41
+		INJECTED from G:\Data-APP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#com.microsoft.band.service.access.BIND_BAND_SERVICE
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:12:5-91
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:12:22-88
+uses-permission#android.permission.INTERNET
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:18:22-77
+application
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:19:5-48:19
+	android:label
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:23:9-40
+activity#band.sdk.sampleapp2.MainActivity
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:25:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:31:27-74
+activity#band.sdk.sampleapp2.BandStreamingAppActivity
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:34:9-36:61
+	android:screenOrientation
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:35:13-72
+activity#band.sdk.sampleapp2.SaitisListActivity
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:36:62-38:61
+	android:screenOrientation
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:37:13-66
+activity#band.sdk.sampleapp2.SaitisActivity
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:38:62-40:61
+	android:screenOrientation
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:39:13-62
+activity#band.sdk.sampleapp2.SaitisListiFilePathActivity
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:40:62-42:61
+	android:screenOrientation
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:41:13-75
+service#band.sdk.sampleapp2.BandService
+ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:44:9-47:47
+	android:enabled
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from G:\Data-APP\app\src\main\AndroidManifest.xml:45:13-59

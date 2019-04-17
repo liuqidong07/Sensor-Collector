@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_acivity_list_statis.xml.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\layout\\acivity_list_statis.xml"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_acivity_list_filestatis.xml.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\layout\\acivity_list_filestatis.xml"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_enter.png.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-hdpi\\btn_enter.png"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_divider_line.png.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-hdpi\\divider_line.png"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\raw_ring.mp3.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\raw\\ring.mp3"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_startactivity.xml.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\layout\\startactivity.xml"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.jpg.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Data-APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_acivity_statis.xml.flat",
+        "source": "G:\\Data-APP\\app\\src\\main\\res\\layout\\acivity_statis.xml"
+    }
+]

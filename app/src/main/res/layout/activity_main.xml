@@ -1,0 +1,97 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:orientation="vertical"
+	android:weightSum="1">
+    
+    <RadioGroup android:id="@+id/radio4cat"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content" 
+	    android:orientation="horizontal"
+	    android:layout_marginTop="10dp">
+
+        <RadioButton
+            android:id="@+id/radioWalk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_marginLeft="20dp"
+            android:checked="true"
+            android:text="Walk" />
+ 
+		<RadioButton android:id="@+id/radioRun" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="70dp"
+			android:text="Run" />
+
+		<RadioButton
+		    android:id="@+id/radioUpstairs"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="-198dp"
+		    android:layout_marginTop="40dp"
+		    android:text="Upstairs" />
+			
+		<RadioButton android:id="@+id/radioDownstairs" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="45dp"
+			android:layout_marginTop="40dp"
+			android:text="Downstairs" /> 				
+	</RadioGroup>
+	
+    <ImageView
+        android:id="@+id/line1"
+        android:src="@drawable/divider_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"/>
+
+	<TextView
+		android:id="@+id/txtStep"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="20px"
+		android:text="@string/steps" />
+
+	<Button
+		android:id="@+id/btnStart"
+		android:layout_width="124dp"
+		android:layout_height="wrap_content"
+		android:text="@string/start"
+		android:layout_weight="0.10" />
+
+	<Button
+		android:id="@+id/stop"
+		android:layout_width="120dp"
+		android:layout_height="wrap_content"
+		android:text="@string/stop"
+		android:layout_weight="0.12" />
+	<Button
+		android:id="@+id/statis"
+		android:layout_width="120dp"
+		android:layout_height="wrap_content"
+		android:text="statistics"
+		android:layout_weight="0.12" />
+
+	<TextView
+		android:id="@+id/txtStatus"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:text=""
+		android:layout_weight="0.35" />
+
+	<EditText
+		android:id="@+id/editText"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="0.18"
+		android:ems="10"
+		android:hint="@string/edit_message"
+		android:inputType="textPersonName" />
+
+</LinearLayout>
+
